@@ -1,2 +1,2 @@
-# 507_projects
-Repo for Intermediate Programming projects
+# final_project_507
+Repo for Intermediate Programming final project
